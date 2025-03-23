@@ -1,12 +1,9 @@
 public class StringListTest {
-    public static void generateStringList(integer numString) {
+    public static List<String> generateStringList(Integer numString) {
         List<String> test = new List<String>();
-        integer n = 0;
         for(Integer i = 0; i < numString; i++){
-            
-            test.add('Test '+ n);            
-            n++;
+            test.add('Test ' + i);            
         }
-        system.debug(test);
+        return test;
     }
 }
