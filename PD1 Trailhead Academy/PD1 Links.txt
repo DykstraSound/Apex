@@ -1,0 +1,46 @@
+Mimeo Account Link: https://www.mimeo.digital/login
+Gov Limits:  https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_apexgov.htm
+    Change Database
+    CPU time
+    Storage
+
+Custom obj: __c
+External obj: __x
+Platform event: __e
+
+A formula ﬁeld is a ﬁeld that derives its value from other ﬁelds, expressions, or values.
+You can create a cross-object formula on a child object to reference data from parent
+objects, up to 10 relationships away.
+Formula fields are calculated in system mode
+
+
+https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/langCon_apex_switch.htm
+https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/langCon_apex_NullCoalescingOperator.htm
+
+https://developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl/sforce_api_calls_soql_select_agg_functions.htm
+
+https://developer.salesforce.com/docs/atlas.en-us.soql_sosl.meta/soql_sosl/sforce_api_calls_soql.htm
+
+https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_classes_annotation_InvocableMethod.htm
+https://trailhead.salesforce.com/content/learn/modules/asynchronous_apex
+
+
+https://www.youtube.com/watch?v=hiWCFXyNk_U
+https://www.youtube.com/watch?v=we5CZT4F57c
+
+
+https://developer.salesforce.com/docs/atlas.en-us.pages.meta/pages/apex_ApexPages_StandardSetController_methods.htm
+
+
+https://developer.salesforce.com/docs/atlas.en-us.pages.meta/pages/apex_ApexPages_StandardSetController_methods.htm
+
+
+https://www.apexsandbox.io 
+
+
+https://lwc.dev/
+
+
+https://github.com/claper87/tvb450?tab=readme-ov-file
+
+
